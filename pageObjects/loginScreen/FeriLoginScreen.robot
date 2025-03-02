@@ -1,7 +1,7 @@
 *** Settings ***
 Library    AppiumLibrary
-Variables       ../LoginScreen/login-screen-locator.yaml
-Variables    ../LoginScreen/data-login.yaml
+Variables       ../loginScreen/login-screen-locator.yaml
+Variables    ../loginScreen/data-login.yaml
 
 *** Variables ***
 

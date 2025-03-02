@@ -1,7 +1,7 @@
 *** Settings ***
-Resource     ../PageObject/base.robot
-Resource    ../PageObject/HomeScreen/HomeScreen.robot
-Resource    ../PageObject/LoginScreen/LoginScreen.robot
+Resource     ../pageObjects/base/base.robot
+Resource    ../pageObjects/homeScreen/FeriHomeScreen.robot
+Resource    ../pageObjects/loginScreen/FeriLoginScreen.robot
 
 Test Setup    Open flight application
 Test Teardown    Close flight application
