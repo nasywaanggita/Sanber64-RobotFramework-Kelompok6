@@ -1,0 +1,2 @@
+signout_button_homescreen: '//android.widget.Button[@resource-id="com.example.myapplication:id/login"]'
+
