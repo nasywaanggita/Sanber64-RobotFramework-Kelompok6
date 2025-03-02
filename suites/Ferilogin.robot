@@ -1,5 +1,5 @@
 *** Settings ***
-Resource     ../pageObjects/base/base.robot
+Resource     ../pageObjects/base/Feribase.robot
 Resource    ../pageObjects/homeScreen/FeriHomeScreen.robot
 Resource    ../pageObjects/loginScreen/FeriLoginScreen.robot
 
