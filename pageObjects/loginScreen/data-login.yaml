@@ -1,0 +1,6 @@
+valid_username: 'support@ngendigital.com'
+invalid_username: 'ramee3711@ngendigital.com'
+valid_password: 'abc123'
+invalid_password: 'okegasokegas'
+blank_username: ''
+blank_password: ''
